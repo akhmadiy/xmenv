@@ -1,0 +1,12 @@
+{
+    "name": "xmenv",
+    "version": "0.0.1",
+    "description": "XmEnv for easy setup envoirement variables",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/akhmadiy/xmenv.git"
+    },
+    "author": "akhmadiy",
+    "license": "MIT",
+    "homepage": "https://github.com/akhmadiy/xmenv#readme"
+}
